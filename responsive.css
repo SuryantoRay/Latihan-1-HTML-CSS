@@ -1,0 +1,21 @@
+@media all and (max-width: 1000px) {
+    .contack-form input, textarea {
+        width: 400px;
+    }
+}
+
+@media all and (max-width: 670px) {
+    .contack-form input, textarea {
+        width: 320px;
+    }
+
+    .header-logo {
+        font-size: 26px;
+        font-weight: 600;
+    }
+
+    .header-list li {
+        font-size: 14px;
+        padding: 17px 20px;
+    }
+}
